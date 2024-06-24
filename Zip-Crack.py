@@ -8,7 +8,7 @@ print("\n\nStart.........\n\n")
 characters = string.ascii_lowercase + string.digits
 
 # Define the ZIP file to be opened
-zip_file_path = 'test.zip'
+zip_file_path = 'a.zip'
 
 # Function to generate all possible passwords
 def generate_passwords(max_length):
